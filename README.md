@@ -1,6 +1,8 @@
 kennyg
 ======
 
+[![Join the chat at https://gitter.im/brentpayne/kennyg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brentpayne/kennyg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 KennyG is a python SAX Handler that reduces the amount of boilerplate needed to parse data from XML.
 
 It is written not for speed of processing (like lxml), but speed of development.  The goal is to make SAX parsers as easy to write as python dictionaries and extend the functionality with classes that implement SAX events (start, end, value).
